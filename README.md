@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prats.sahoo2k22@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/6543fdcd237fda052da55599](https://app.luminpdf.com/viewer/6543fdcd237fda052da55599)
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/6543fdcd237fda052da55599](https://drive.google.com/file/d/1tjmfpgi7uMALXFZ3s_R24yXcsszbzKMF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
