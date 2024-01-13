@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/pratyush797/articles](https://auth.geeksforgeeks.org/user/pratyush797/articles)
 
-- 💬 Ask me about **C++, Javascript, Nodejs**
+- 💬 Ask me about **C++, Javascript, SQL**
 
 - 📫 How to reach me **pratyushsahoo1726@gmail.com**
 
