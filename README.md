@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C++, Javascript, SQL**
 
-- 📫 How to reach me **pratyushsahoo1726@gmail.com**
+- 📫 How to reach me **prats.sahoo2k22@gmail.com**
 
 - 📄 Know about my experiences [https://app.luminpdf.com/viewer/6543fdcd237fda052da55599](https://app.luminpdf.com/viewer/6543fdcd237fda052da55599)
 
