@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prats.sahoo2k22@gmail.com**
 
-- 📄 Know more about me in my [Resume](https://drive.google.com/file/d/1tjmfpgi7uMALXFZ3s_R24yXcsszbzKMF/view?usp=sharing) and [Portfolio](https://pratyushsahoo.wixsite.com/portfolio/projects)
+- 📄 Know more about me in my [Resume](https://drive.google.com/file/d/1tjmfpgi7uMALXFZ3s_R24yXcsszbzKMF/view?usp=sharing) and [Portfolio](https://pratyushsahoo.wixsite.com/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
