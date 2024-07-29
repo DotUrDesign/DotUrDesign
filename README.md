@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **prats.sahoo2k22@gmail.com**
 
-- 📄 Know more about me in my [Resume](https://drive.google.com/file/d/1tjmfpgi7uMALXFZ3s_R24yXcsszbzKMF/view?usp=sharing) and [Portfolio](https://pratyushsahoo.wixsite.com/portfolio)
+- 📄 Know more about me in my [Resume]([https://drive.google.com/file/d/1tjmfpgi7uMALXFZ3s_R24yXcsszbzKMF/view?usp=sharing](https://drive.google.com/file/d/1g5DpGXrkHEMoPWe7HWrslcvtENhObMcY/view?usp=sharing)) and [Portfolio](https://pratyushsahoo.wixsite.com/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratyush-sahoo-a3a360243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratyush-sahoo-a3a360243/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratyush-sahoo-a3a360243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratyush-sahoo-a3a360243/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_pratyusshh._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_pratyusshh._/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/pratyush_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pratyush_code" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/pratyush_sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pratyush_sahoo" height="30" width="40" /></a>
