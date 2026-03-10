@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">Backend + Data Engineer</h3>
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/pratyush797/articles](https://auth.geeksforgeeks.org/user/pratyush797/articles)
 
