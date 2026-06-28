@@ -120,6 +120,14 @@
 
 <br><br><br>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DotUrDesign/DotUrDesign/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+<br><br><br>
+
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
