@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Pratyush Sahoo`</h1>
 <h3 align="center">Data Engineer | Building Scalable Data Pipelines & Modern Data Platforms</h3>
 <br>
-<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- <img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
+<img align="right" alt="coding" width="450" src="https://github.com/DotUrDesign/DotUrDesign/blob/main/Data%20Eng%20Image.png">
 
 - 🔭 I’m currently working on **Financial Reconciliation System**
 
@@ -117,8 +118,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
   </a>
 </p>
-
-<br><br><br>
 
 <br><br><br>
 
