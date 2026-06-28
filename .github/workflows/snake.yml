@@ -18,7 +18,7 @@ jobs:
           github_user_name: DotUrDesign
 
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?color_snake=#00D4FF&color_dots=#161B22,#0D47A1,#1976D2,#42A5F5,#90CAF9
             dist/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
