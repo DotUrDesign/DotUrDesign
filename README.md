@@ -120,12 +120,6 @@
 
 <br><br><br>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DotUrDesign/DotUrDesign/output/github-snake-dark.svg" />
-</p>
-
 <br><br><br>
 
 <div align="center">
