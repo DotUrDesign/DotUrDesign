@@ -1,3 +1,4 @@
+![logo](https://github.com/DotUrDesign/DotUrDesign/blob/main/Github%20Banner%20Data%20Engineer.png)
 <h1 align="center">Hi 👋, I'm Pratyush Sahoo`</h1>
 <h3 align="center">Data Engineer | Building Scalable Data Pipelines & Modern Data Platforms</h3>
 <br>
